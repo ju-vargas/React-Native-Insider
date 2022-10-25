@@ -6,6 +6,7 @@ link: https://www.youtube.com/watch?v=qcCM7sq8t50&list=PLAF5G8rnMmBbh-xQavcjkOJv
 <h3> Como criar app </h3>
 
 -- ```npm i -g expo-cli```
+
 -- ```npx create-expo-app my-app```
 
 
