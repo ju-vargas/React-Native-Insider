@@ -41,13 +41,14 @@ link: https://www.youtube.com/watch?v=qcCM7sq8t50&list=PLAF5G8rnMmBbh-xQavcjkOJv
 
     ```javaScript
     const styles = StyleSheet.create({
-    container:{
-        flex:1,                     //o q eh flex? 
-    }
+        container:{
+            flex:1,                    
+        }
     })
     ```
 
     - Dentro do elemento: 
+        
         
     ``` javaScript
     <View style={styles.container}>
