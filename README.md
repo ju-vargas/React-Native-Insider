@@ -17,3 +17,22 @@ link: https://www.youtube.com/watch?v=qcCM7sq8t50&list=PLAF5G8rnMmBbh-xQavcjkOJv
 -- ```npm run start```
 
 -- caso nao funcione, rodar ```npx expo install react-native-web@~0.18.7 react-dom@18.0.0 @expo/webpack-config@^0.17.0```
+
+<h2>Entendendo como funciona</h2>
+
+-- A tag view funciona como uma DIV, e foi importada do React Native. 
+
+```javaScript 
+import React from 'react'; 
+import { View, Text } from 'react-native';
+
+export default function App() {
+  return (
+    <View>
+
+    </View>
+  );
+}
+```
+
+
