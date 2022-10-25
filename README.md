@@ -1,4 +1,4 @@
 # React-Native-do-Zero
 Repositório para arquivos de um workshop em React Native. 
 
-link: https://www.youtube.com/watch?v=aFFq_nSyfgA&list=PLAF5G8rnMmBZB0gEr29t7VOqz-_vFUpN_
+link: https://www.youtube.com/watch?v=qcCM7sq8t50&list=PLAF5G8rnMmBbh-xQavcjkOJvhtH7SHN63
