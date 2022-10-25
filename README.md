@@ -24,33 +24,33 @@ link: https://www.youtube.com/watch?v=qcCM7sq8t50&list=PLAF5G8rnMmBbh-xQavcjkOJv
 
 - A tag view funciona como uma DIV, e foi importada do React Native. 
 
-```javaScript 
-import React from 'react'; 
-import { View, Text, StyleSheet } from 'react-native';
+    ```javaScript 
+    import React from 'react'; 
+    import { View, Text, StyleSheet } from 'react-native';
 
-export default function App() {
-  return (
-    <View>
+    export default function App() {
+    return (
+        <View>
 
-    </View>
-  );
-}
-```
+        </View>
+    );
+    }
+    ```
 
 - StyleSheet é usada para dar estilo aos elementos.  
 
-```javaScript
-const styles = StyleSheet.create({
-  container:{
-    flex:1,                     //o q eh flex? 
-  }
-})
-```
+    ```javaScript
+    const styles = StyleSheet.create({
+    container:{
+        flex:1,                     //o q eh flex? 
+    }
+    })
+    ```
 
     - Dentro do elemento: 
-    
-``` javaScript
-<View style={styles.container}>
-```
+        
+    ``` javaScript
+    <View style={styles.container}>
+    ```
 
 
