@@ -49,9 +49,9 @@ link: https://www.youtube.com/watch?v=qcCM7sq8t50&list=PLAF5G8rnMmBbh-xQavcjkOJv
 
     - Dentro do elemento: 
         
-        
+
     ``` javaScript
-    <View style={styles.container}>
+    <View style={styles.container}> </View>
     ```
 
 
